@@ -1,0 +1,8 @@
+# One handle per line, no @, lines starting with # are ignored.
+# Replace this with whoever you want in your candidate pool.
+# 100-300 handles is a reasonable range: enough variety for good matches,
+# small enough that build-candidates.mjs finishes in a few minutes.
+#
+# Tip: mix in a range of posting styles (high-frequency posters, low-frequency,
+# different topics) so the matcher has real variety to choose between —
+# a pool of 200 near-identical accounts makes every match feel the same.
